@@ -1,0 +1,9 @@
+../Core/Src/main.c:104:6:TiltEstimator	1
+../Core/Src/main.c:130:6:UpdateTiltAngle	1
+../Core/Src/main.c:137:6:IMU_Initialize	2
+../Core/Src/main.c:160:6:IMU_ReadAccelerometer	1
+../Core/Src/main.c:175:6:IMU_ReadGyroscope	1
+../Core/Src/main.c:190:7:ComputeTiltAngle	1
+../Core/Src/main.c:200:5:main	7
+../Core/Src/main.c:292:6:SystemClock_Config	4
+../Core/Src/main.c:347:6:Error_Handler	1

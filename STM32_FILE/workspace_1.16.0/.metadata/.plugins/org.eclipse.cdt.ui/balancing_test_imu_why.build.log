@@ -1,0 +1,10 @@
+18:00:11 **** Incremental Build of configuration Debug for project balancing_test_imu_why ****
+make -j8 all 
+arm-none-eabi-size  balancing_test_imu_why.elf 
+   text	   data	    bss	    dec	    hex	filename
+  27396	     40	   2184	  29620	   73b4	balancing_test_imu_why.elf
+Finished building: default.size.stdout
+ 
+
+18:00:11 Build Finished. 0 errors, 0 warnings. (took 800ms)
+

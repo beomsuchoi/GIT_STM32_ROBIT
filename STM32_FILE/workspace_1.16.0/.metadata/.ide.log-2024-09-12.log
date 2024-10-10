@@ -1,0 +1,476 @@
+2024-09-12 19:08:03,593 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Exception in thread "AWT-EventQueue-0" java.awt.IllegalComponentStateException: Native resources unavailable
+2024-09-12 19:08:03,642 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/sun.awt.windows.WWindowPeer.getScreenImOn(Native Method)
+2024-09-12 19:08:03,646 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/sun.awt.windows.WWindowPeer.updateGC(WWindowPeer.java:566)
+2024-09-12 19:08:03,649 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+2024-09-12 19:08:03,652 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+2024-09-12 19:08:03,654 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+2024-09-12 19:08:03,658 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+2024-09-12 19:08:03,661 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+2024-09-12 19:08:03,666 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+2024-09-12 19:08:03,670 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:97)
+2024-09-12 19:08:03,673 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:747)
+2024-09-12 19:08:03,676 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+2024-09-12 19:08:03,679 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+2024-09-12 19:08:03,684 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+2024-09-12 19:08:03,686 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:744)
+2024-09-12 19:08:03,691 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+2024-09-12 19:08:03,695 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+2024-09-12 19:08:03,700 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+2024-09-12 19:08:03,703 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+2024-09-12 19:08:03,706 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+2024-09-12 19:08:03,709 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2024-09-12 19:38:10,009 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:10,009 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:10,231 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:10,231 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:10,232 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:10,232 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:10,310 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:10,310 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:10,313 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:10,313 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:39,250 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:39,250 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:39,405 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:39,405 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:39,405 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:39,405 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:39,519 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:39,519 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:39,600 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:39,600 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:56,185 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:56,185 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:56,342 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:56,342 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:56,342 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:56,342 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:56,455 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:56,455 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:56,535 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:56,535 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:58,578 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:58,578 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:58,714 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:58,714 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:58,724 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:58,724 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:58,804 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:58,804 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:58,901 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:38:58,901 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:01,342 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:01,342 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:01,506 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:01,506 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:01,506 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:01,506 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:01,602 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:01,602 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:01,760 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:01,760 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:07,004 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:07,004 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:07,150 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:07,150 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:07,151 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:07,151 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:07,227 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:07,227 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:07,356 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:07,356 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:12,521 [INFO] ParamManager:896 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2024-09-12 19:39:12,586 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:12,586 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:12,877 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:12,877 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:15,366 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:15,366 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:15,647 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:15,647 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:18,421 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:18,421 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:18,661 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:18,661 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:20,640 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:20,640 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:21,054 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:21,054 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:25,047 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:25,047 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:25,125 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:25,125 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:25,135 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:25,135 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:25,173 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:25,173 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:25,189 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:25,189 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:27,165 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:27,165 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:27,165 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:27,165 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:27,199 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:27,199 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:27,234 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:27,234 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:30,694 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:30,694 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:30,694 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:30,694 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:30,730 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:30,730 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:30,767 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:30,767 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:56,080 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:39:56,080 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:40:14,734 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 503387488 Bytes (1026555904)
+2024-09-12 19:40:17,237 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 300931552 Bytes (989855744)
+2024-09-12 19:40:20,343 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 441447440 Bytes (989855744)
+2024-09-12 19:40:20,537 [INFO] ProjectBuilder:2320 - IP not ready for code generation: Clock
+2024-09-12 19:40:56,118 [INFO] MainUpdater:2873 - connection check result : 10
+2024-09-12 19:40:56,329 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2024-09-12 19:40:56,332 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2024-09-12 19:40:56,333 [INFO] FinderPluginLoader:95 - Searching for filters in installed packs
+2024-09-12 19:40:57,238 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2024-09-12 19:40:57,238 [INFO] DetailPanel:341 - Set advertising image to C:/Users/chlqj/STM32Cube/Repository/\en.prom-stm32h7rs-mcu-finder.jpg
+2024-09-12 19:41:03,153 [INFO] ApiDb:581 - Connected to CubeFinder SQLite database (C:\Users\chlqj\.stmcufinder\plugins\mcufinder\mcu\cube-finder-db.db)
+2024-09-12 19:41:35,194 [INFO] MainUpdater:2873 - connection check result : 10
+2024-09-12 19:41:35,195 [INFO] MainUpdater:2873 - connection check result : 10
+2024-09-12 19:41:35,288 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-09-12 19:41:35,289 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.120
+2024-09-12 19:41:35,300 [ERROR] ProjectManagerView:394 - 
+java.lang.NullPointerException: Cannot invoke "javax.swing.JTextField.getText()" because the return value of "java.util.List.get(int)" is null
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab$10.caretUpdate(ProjectChoiceTab.java:2622) ~[filemanager.jar:?]
+	at javax.swing.text.JTextComponent.fireCaretUpdate(JTextComponent.java:412) ~[?:?]
+	at javax.swing.text.JTextComponent$MutableCaretEvent.fire(JTextComponent.java:4491) ~[?:?]
+	at javax.swing.text.JTextComponent$MutableCaretEvent.stateChanged(JTextComponent.java:4513) ~[?:?]
+	at javax.swing.text.DefaultCaret.fireStateChanged(DefaultCaret.java:842) ~[?:?]
+	at javax.swing.text.DefaultCaret.changeCaretPosition(DefaultCaret.java:1313) ~[?:?]
+	at javax.swing.text.DefaultCaret.handleSetDot(DefaultCaret.java:1212) ~[?:?]
+	at javax.swing.text.DefaultCaret.setDot(DefaultCaret.java:1193) ~[?:?]
+	at javax.swing.text.DefaultCaret$Handler.insertUpdate(DefaultCaret.java:1789) ~[?:?]
+	at javax.swing.text.AbstractDocument.fireInsertUpdate(AbstractDocument.java:226) ~[?:?]
+	at javax.swing.text.AbstractDocument.handleInsertString(AbstractDocument.java:780) ~[?:?]
+	at javax.swing.text.AbstractDocument.insertString(AbstractDocument.java:739) ~[?:?]
+	at javax.swing.text.PlainDocument.insertString(PlainDocument.java:131) ~[?:?]
+	at javax.swing.text.AbstractDocument.replace(AbstractDocument.java:698) ~[?:?]
+	at javax.swing.text.JTextComponent.setText(JTextComponent.java:1729) ~[?:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.createHeapStackFields(ProjectChoiceTab.java:972) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.buildLinkSettingsPanel(ProjectChoiceTab.java:3597) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.defineWindowsFields(ProjectChoiceTab.java:1940) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectChoiceTab.updateSettings(ProjectChoiceTab.java:550) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.gui.ProjectSettingsPanel.UpdateDialog(ProjectSettingsPanel.java:245) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.projectmanager.ProjectManagerView.propertyChange(ProjectManagerView.java:391) ~[filemanager.jar:?]
+	at java.beans.PropertyChangeSupport.fire(PropertyChangeSupport.java:343) ~[?:?]
+	at java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:335) ~[?:?]
+	at java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:268) ~[?:?]
+	at com.st.microxplorer.util.MXPropertyChangeSupport.firePropertyChange(MXPropertyChangeSupport.java:54) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.mxsystem.MxSystem.closeConfig(MxSystem.java:900) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.maingui.MainPanel.closeConfig(MainPanel.java:781) ~[STM32CubeMX.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.OpenFileManager.loadConfigurationFile(OpenFileManager.java:265) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.MainFileManager.userLoadConfig(MainFileManager.java:352) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.engine.MainFileManager.userLoadConfig(MainFileManager.java:330) ~[filemanager.jar:?]
+	at com.st.microxplorer.plugins.filemanager.FileManagerView.getSpecificTask(FileManagerView.java:246) ~[filemanager.jar:?]
+	at com.st.stm32cube.common.mx.editor.CubeMxEditor.getMxTabbedPaneInstance(CubeMxEditor.java:1198) ~[com.st.stm32cube.common.mx_6.12.0.202406281431/:?]
+	at com.st.stm32cube.common.mx.editor.CubeMxEditor$12$1.createSwingComponent(CubeMxEditor.java:1068) ~[com.st.stm32cube.common.mx_6.12.0.202406281431/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite.doComponentCreation(EmbeddedSwingComposite.java:492) ~[com.st.stm32cube.common.mx.oss_6.12.0.202406281431/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.EmbeddedSwingComposite$4.run(EmbeddedSwingComposite.java:291) ~[com.st.stm32cube.common.mx.oss_6.12.0.202406281431/:?]
+	at com.st.stm32cube.common.mx.oss.core.awtswtbridge.AwtEnvironment$2.run(AwtEnvironment.java:166) ~[com.st.stm32cube.common.mx.oss_6.12.0.202406281431/:?]
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318) ~[?:?]
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:720) ~[?:?]
+	at java.awt.EventQueue$4.run(EventQueue.java:714) ~[?:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:399) ~[?:?]
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86) ~[?:?]
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:742) ~[?:?]
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109) ~[?:?]
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101) ~[?:?]
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:90) ~[?:?]
+2024-09-12 19:41:35,302 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2024-09-12 19:41:35,302 [INFO] ThirdParty:873 - entering critical section [close project]
+2024-09-12 19:41:35,302 [INFO] ThirdParty:883 - exiting critical section [close project]
+2024-09-12 19:41:35,304 [INFO] PinOutPanel:1561 - setPackage(No Configuration,No Configuration)
+2024-09-12 19:41:35,311 [WARN] IpParametersView:151 - Warning: This peripheral hasn't parameters
+2024-09-12 19:41:35,318 [WARN] MainPanel:284 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2024-09-12 19:41:35,322 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 680662512 Bytes (989855744)
+2024-09-12 19:41:35,323 [INFO] MicroXplorer:468 - Change Database Path : 
+2024-09-12 19:41:35,323 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.120
+2024-09-12 19:41:35,323 [INFO] OpenFileManager:332 - Change cursor
+2024-09-12 19:41:35,338 [INFO] RulesReader:64 - Compatibility file has been processed (297 Rules)
+2024-09-12 19:41:35,572 [INFO] Mcu:2032 - Initializing MCU STM32F446RETx STM32F446RETx STM32F446RET6
+2024-09-12 19:41:36,971 [INFO] Context:742 - Trying to add GPIOservice into a context  which must be forbidden
+2024-09-12 19:41:37,225 [INFO] ImportTextPane:205 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2024-09-12 19:41:37,226 [INFO] ImportTextPane:205 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2024-09-12 19:41:37,226 [INFO] ImportTextPane:205 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2024-09-12 19:41:37,243 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2024-09-12 19:41:37,243 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2024-09-12 19:41:37,243 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2024-09-12 19:41:37,243 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2024-09-12 19:41:37,243 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,244 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,245 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,245 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,245 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,245 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,245 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,245 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,245 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,245 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,245 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2024-09-12 19:41:37,245 [WARN] ModelPack:524 - Component already loaded: STMicroelectronics:HAL Drivers:0.0.0:STMicroelectronics:Device:STMicro_Driver:XSPI:HAL::0.0.1:HAL_XSPI
+2024-09-12 19:41:37,246 [INFO] ThirdPartyModel:298 - Start build external matchings
+2024-09-12 19:41:37,247 [INFO] ThirdPartyModel:316 - End build external matchings
+2024-09-12 19:41:37,480 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 573343728 Bytes (989855744)
+2024-09-12 19:41:37,513 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2024-09-12 19:41:37,513 [INFO] ThirdParty:835 - entering critical section [change project]
+2024-09-12 19:41:37,513 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USBPD 4.1
+2024-09-12 19:41:37,514 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2024-09-12 19:41:37,514 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2024-09-12 19:41:37,514 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2024-09-12 19:41:37,514 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2024-09-12 19:41:37,514 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2024-09-12 19:41:37,514 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2024-09-12 19:41:37,514 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2024-09-12 19:41:37,514 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2024-09-12 19:41:37,514 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2024-09-12 19:41:37,514 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2024-09-12 19:41:37,515 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2024-09-12 19:41:37,515 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2024-09-12 19:41:37,515 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2024-09-12 19:41:37,515 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2024-09-12 19:41:37,515 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2024-09-12 19:41:37,515 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2024-09-12 19:41:37,515 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2024-09-12 19:41:37,515 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2024-09-12 19:41:37,515 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2024-09-12 19:41:37,515 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2024-09-12 19:41:37,515 [INFO] ThirdParty:841 - exiting critical section [change project]
+2024-09-12 19:41:37,759 [INFO] PinOutPanel:1561 - setPackage(No Configuration,No Configuration)
+2024-09-12 19:41:37,768 [INFO] PinOutPanel:1561 - setPackage(STM32F446RETx,LQFP64)
+2024-09-12 19:41:38,079 [INFO] UtilMem:75 - Before build in PCC Used Memory: 488409072 Bytes (989855744)
+2024-09-12 19:41:38,305 [INFO] UtilMem:75 - After build in PCC Used Memory: 537692144 Bytes (989855744)
+2024-09-12 19:41:38,332 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,332 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,332 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,333 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,333 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,333 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,333 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,333 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,333 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,333 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,333 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,333 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,333 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,333 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,333 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,333 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,333 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,333 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,334 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,334 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,334 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,334 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,334 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,334 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,334 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,334 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,334 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,336 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,336 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,336 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,336 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,336 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,337 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,337 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,337 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,337 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,338 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,338 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,338 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,338 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,339 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,339 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,339 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,340 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,340 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,340 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,340 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,340 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,340 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,341 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,341 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,341 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,342 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,342 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,342 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,343 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,343 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,344 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,344 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,345 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2024-09-12 19:41:38,349 [INFO] ApiDbMcu:508 - Load IP Config File for PDM2PCM
+2024-09-12 19:41:38,384 [INFO] CADModel:165 - CPN selected for project levelSTM32F446RET6
+2024-09-12 19:41:38,384 [INFO] CADModel:114 - Register for checkConnection events
+2024-09-12 19:41:38,476 [INFO] OpenFileManager:363 - Restore cursor
+2024-09-12 19:41:38,947 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 659853296 Bytes (989855744)
+2024-09-12 19:41:39,050 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 681347056 Bytes (989855744)
+2024-09-12 19:41:39,208 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-09-12 19:41:39,208 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-09-12 19:41:39,208 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\
+2024-09-12 19:41:39,321 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\MXTmpFiles\license.tmp_save
+2024-09-12 19:41:39,418 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\MXTmpFiles\license.tmp
+2024-09-12 19:41:39,446 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\stm32f4xx_it.c_save
+2024-09-12 19:41:39,697 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\stm32f4xx_it.c
+2024-09-12 19:41:39,697 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\stm32f4xx_it.h_save
+2024-09-12 19:41:39,805 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\stm32f4xx_it.h
+2024-09-12 19:41:39,852 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\stm32f4xx_hal_msp.c_save
+2024-09-12 19:41:39,975 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\stm32f4xx_hal_msp.c
+2024-09-12 19:41:39,982 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\MXTmpFiles\system.tmp_save
+2024-09-12 19:41:40,052 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\MXTmpFiles\system.tmp
+2024-09-12 19:41:40,077 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-09-12 19:41:40,220 [INFO] CodeEngine:335 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\stm32f4xx_hal_conf.h
+2024-09-12 19:41:40,266 [WARN] IPConfigManager:3005 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-09-12 19:41:40,282 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\main.h_save
+2024-09-12 19:41:40,412 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\main.h
+2024-09-12 19:41:40,426 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\main.c_save
+2024-09-12 19:41:40,575 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\main.c
+2024-09-12 19:41:41,288 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 457mS.
+2024-09-12 19:41:41,299 [INFO] ProjectBuilder:4828 - Project Generator version: 4.4.0-B60
+2024-09-12 19:41:41,394 [INFO] ConfigFileManager:1531 - The Die is : DIE421
+2024-09-12 19:41:41,400 [INFO] ApiDbMcu:508 - Load IP Config File for FATFS
+2024-09-12 19:41:41,404 [INFO] ApiDbMcu:508 - Load IP Config File for FREERTOS
+2024-09-12 19:41:41,409 [INFO] ApiDbMcu:508 - Load IP Config File for LIBJPEG
+2024-09-12 19:41:41,410 [INFO] ApiDbMcu:508 - Load IP Config File for MBEDTLS
+2024-09-12 19:41:41,418 [INFO] ApiDbMcu:508 - Load IP Config File for USB_DEVICE
+2024-09-12 19:41:41,427 [INFO] ApiDbMcu:508 - Load IP Config File for USB_HOST
+2024-09-12 19:41:44,504 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 3204mS.
+2024-09-12 19:41:44,506 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 2mS.
+2024-09-12 19:41:44,530 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.
+2024-09-12 19:41:45,329 [INFO] McuFinderGlobals:76 - Set McuFinderConnectedMode to true
+2024-09-12 19:41:45,333 [INFO] ApiDb:448 - Save user favorites file C:\Users\chlqj/.stm32cubeide/favorites.mcus.txt: 1 item(s)
+2024-09-12 19:41:45,334 [INFO] ApiDb:452 - User favorites MCUs=[STM32F446RET6]
+2024-09-12 19:45:01,302 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 416387304 Bytes (1073741824)
+2024-09-12 19:45:02,668 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 444698856 Bytes (1073741824)
+2024-09-12 19:45:06,556 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 568953064 Bytes (1073741824)
+2024-09-12 19:45:06,928 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-09-12 19:45:06,929 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-09-12 19:45:06,929 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-09-12 19:45:06,930 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-09-12 19:45:06,932 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\
+2024-09-12 19:45:07,220 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\MXTmpFiles\license.tmp_save
+2024-09-12 19:45:07,377 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\MXTmpFiles\license.tmp
+2024-09-12 19:45:07,405 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\gpio.c_save
+2024-09-12 19:45:07,573 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\gpio.c
+2024-09-12 19:45:07,584 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\gpio.h_save
+2024-09-12 19:45:07,729 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\gpio.h
+2024-09-12 19:45:07,786 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\stm32f4xx_it.c_save
+2024-09-12 19:45:08,025 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\stm32f4xx_it.c
+2024-09-12 19:45:08,040 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\stm32f4xx_it.h_save
+2024-09-12 19:45:08,138 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\stm32f4xx_it.h
+2024-09-12 19:45:08,187 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\stm32f4xx_hal_msp.c_save
+2024-09-12 19:45:08,353 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\stm32f4xx_hal_msp.c
+2024-09-12 19:45:08,365 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\MXTmpFiles\system.tmp_save
+2024-09-12 19:45:08,479 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\MXTmpFiles\system.tmp
+2024-09-12 19:45:08,531 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-09-12 19:45:08,754 [INFO] CodeEngine:335 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\stm32f4xx_hal_conf.h
+2024-09-12 19:45:08,820 [WARN] IPConfigManager:3005 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-09-12 19:45:08,867 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\main.h_save
+2024-09-12 19:45:09,055 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\main.h
+2024-09-12 19:45:09,084 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\main.c_save
+2024-09-12 19:45:09,272 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\main.c
+2024-09-12 19:45:10,098 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 607mS.
+2024-09-12 19:45:10,107 [INFO] ProjectBuilder:4828 - Project Generator version: 4.4.0-B60
+2024-09-12 19:45:10,236 [INFO] ConfigFileManager:1531 - The Die is : DIE421
+2024-09-12 19:45:11,642 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 1535mS.
+2024-09-12 19:45:11,643 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 1mS.
+2024-09-12 19:45:11,666 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 1mS.
+2024-09-12 19:45:40,946 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:45:40,946 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:45:40,992 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:45:40,992 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:45:40,993 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:45:40,993 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:45:41,024 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:45:41,024 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:45:41,026 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:45:41,026 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:45:55,345 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:45:55,345 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:45:55,345 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:45:55,345 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:45:55,373 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:45:55,373 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:45:55,410 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:45:55,410 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:46:54,376 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 832236800 Bytes (1073741824)
+2024-09-12 19:46:55,988 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 863167744 Bytes (1073741824)
+2024-09-12 19:46:57,711 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 309475864 Bytes (1073741824)
+2024-09-12 19:46:57,932 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-09-12 19:46:57,932 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-09-12 19:46:57,932 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: I2C
+2024-09-12 19:46:57,932 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-09-12 19:46:57,938 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-09-12 19:46:57,940 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\
+2024-09-12 19:46:57,941 [WARN] IP:2191 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-09-12 19:46:57,941 [WARN] IP:2191 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-09-12 19:46:58,134 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\MXTmpFiles\license.tmp_save
+2024-09-12 19:46:58,275 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\MXTmpFiles\license.tmp
+2024-09-12 19:46:58,343 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\gpio.c_save
+2024-09-12 19:46:58,467 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\gpio.c
+2024-09-12 19:46:58,478 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\gpio.h_save
+2024-09-12 19:46:58,570 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\gpio.h
+2024-09-12 19:46:58,664 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\i2c.c_save
+2024-09-12 19:46:58,846 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\i2c.c
+2024-09-12 19:46:58,856 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\i2c.h_save
+2024-09-12 19:46:58,982 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\i2c.h
+2024-09-12 19:46:59,013 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\stm32f4xx_it.c_save
+2024-09-12 19:46:59,107 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\stm32f4xx_it.c
+2024-09-12 19:46:59,126 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\stm32f4xx_it.h_save
+2024-09-12 19:46:59,200 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\stm32f4xx_it.h
+2024-09-12 19:46:59,235 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\stm32f4xx_hal_msp.c_save
+2024-09-12 19:46:59,337 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\stm32f4xx_hal_msp.c
+2024-09-12 19:46:59,342 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\MXTmpFiles\system.tmp_save
+2024-09-12 19:46:59,410 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\MXTmpFiles\system.tmp
+2024-09-12 19:46:59,450 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-09-12 19:46:59,605 [INFO] CodeEngine:335 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\stm32f4xx_hal_conf.h
+2024-09-12 19:46:59,655 [WARN] IPConfigManager:3005 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-09-12 19:46:59,683 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\main.h_save
+2024-09-12 19:46:59,801 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Inc\main.h
+2024-09-12 19:46:59,822 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\main.c_save
+2024-09-12 19:47:00,000 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\IMU_Project_real\Core\Src\main.c
+2024-09-12 19:47:00,791 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 515mS.
+2024-09-12 19:47:00,801 [INFO] ProjectBuilder:4828 - Project Generator version: 4.4.0-B60
+2024-09-12 19:47:00,898 [INFO] ConfigFileManager:1531 - The Die is : DIE421
+2024-09-12 19:47:02,218 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 1416mS.
+2024-09-12 19:47:02,219 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 1mS.
+2024-09-12 19:47:02,232 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 0mS.

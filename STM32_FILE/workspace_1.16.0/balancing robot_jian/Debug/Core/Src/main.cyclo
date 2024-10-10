@@ -1,0 +1,12 @@
+../Core/Src/main.c:126:7:non_linear_response	3
+../Core/Src/main.c:144:7:calculate_pid	4
+../Core/Src/main.c:172:6:Kalman_Filter	1
+../Core/Src/main.c:197:6:Update_Angle	1
+../Core/Src/main.c:204:6:MPU6050_Init	2
+../Core/Src/main.c:227:6:MPU6050_Read_Accel	1
+../Core/Src/main.c:242:6:MPU6050_Read_Gyro	1
+../Core/Src/main.c:257:7:Calculate_XZ_Angle	1
+../Core/Src/main.c:267:5:main	2
+../Core/Src/main.c:351:6:SystemClock_Config	4
+../Core/Src/main.c:400:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:415:6:Error_Handler	1

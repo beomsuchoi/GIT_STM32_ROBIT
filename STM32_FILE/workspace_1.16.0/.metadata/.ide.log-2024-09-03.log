@@ -1,0 +1,79 @@
+2024-09-03 21:06:11,698 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Exception in thread "AWT-EventQueue-0" java.awt.IllegalComponentStateException: Native resources unavailable
+2024-09-03 21:06:11,739 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/sun.awt.windows.WWindowPeer.getScreenImOn(Native Method)
+2024-09-03 21:06:11,740 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/sun.awt.windows.WWindowPeer.updateGC(WWindowPeer.java:566)
+2024-09-03 21:06:11,742 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:318)
+2024-09-03 21:06:11,744 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:773)
+2024-09-03 21:06:11,745 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:720)
+2024-09-03 21:06:11,748 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:714)
+2024-09-03 21:06:11,749 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+2024-09-03 21:06:11,752 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+2024-09-03 21:06:11,754 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:97)
+2024-09-03 21:06:11,755 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:747)
+2024-09-03 21:06:11,756 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+2024-09-03 21:06:11,758 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(AccessController.java:399)
+2024-09-03 21:06:11,760 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:86)
+2024-09-03 21:06:11,761 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:744)
+2024-09-03 21:06:11,763 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+2024-09-03 21:06:11,766 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+2024-09-03 21:06:11,771 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+2024-09-03 21:06:11,772 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+2024-09-03 21:06:11,774 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+2024-09-03 21:06:11,775 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2024-09-03 21:06:12,207 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connection refused: getsockopt
+2024-09-03 21:06:12,864 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2024-09-03 21:06:14,866 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2024-09-03 21:06:16,868 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2024-09-03 21:12:11,428 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-09-03 21:12:27,701 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-09-03 21:13:02,529 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 786288568 Bytes (1073741824)
+2024-09-03 21:13:03,782 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 814073784 Bytes (1073741824)
+2024-09-03 21:13:04,400 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 864931504 Bytes (1073741824)
+2024-09-03 21:13:04,565 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM6_7
+2024-09-03 21:13:04,565 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-09-03 21:13:04,565 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-09-03 21:13:04,565 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2024-09-03 21:13:04,565 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: USART
+2024-09-03 21:13:04,565 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: DMA
+2024-09-03 21:13:04,565 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-09-03 21:13:04,566 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.16.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.12.0.202406281431\\db\
+2024-09-03 21:13:04,702 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\MXTmpFiles\license.tmp_save
+2024-09-03 21:13:04,796 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\MXTmpFiles\license.tmp
+2024-09-03 21:13:04,838 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Src\gpio.c_save
+2024-09-03 21:13:04,976 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Src\gpio.c
+2024-09-03 21:13:04,999 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Inc\gpio.h_save
+2024-09-03 21:13:05,062 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Inc\gpio.h
+2024-09-03 21:13:05,276 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Src\dma.c_save
+2024-09-03 21:13:05,371 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Src\dma.c
+2024-09-03 21:13:05,381 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Inc\dma.h_save
+2024-09-03 21:13:05,473 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Inc\dma.h
+2024-09-03 21:13:05,496 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Src\tim.c_save
+2024-09-03 21:13:05,588 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Src\tim.c
+2024-09-03 21:13:05,595 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Inc\tim.h_save
+2024-09-03 21:13:05,666 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Inc\tim.h
+2024-09-03 21:13:05,686 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Src\usart.c_save
+2024-09-03 21:13:05,829 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Src\usart.c
+2024-09-03 21:13:05,835 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Inc\usart.h_save
+2024-09-03 21:13:05,925 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Inc\usart.h
+2024-09-03 21:13:05,957 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Src\stm32f4xx_it.c_save
+2024-09-03 21:13:06,099 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Src\stm32f4xx_it.c
+2024-09-03 21:13:06,107 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Inc\stm32f4xx_it.h_save
+2024-09-03 21:13:06,189 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Inc\stm32f4xx_it.h
+2024-09-03 21:13:06,229 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Src\stm32f4xx_hal_msp.c_save
+2024-09-03 21:13:06,340 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Src\stm32f4xx_hal_msp.c
+2024-09-03 21:13:06,344 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\MXTmpFiles\system.tmp_save
+2024-09-03 21:13:06,405 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\MXTmpFiles\system.tmp
+2024-09-03 21:13:06,435 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Inc\stm32_assert.h_save
+2024-09-03 21:13:06,509 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Inc\stm32_assert.h
+2024-09-03 21:13:06,534 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-09-03 21:13:06,632 [INFO] CodeEngine:335 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Inc\stm32f4xx_hal_conf.h
+2024-09-03 21:13:06,672 [WARN] IPConfigManager:3005 - Warning: the RefConfig PLL2P_FOR_MCO is not available in your config.xml file
+2024-09-03 21:13:06,704 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Inc\main.h_save
+2024-09-03 21:13:06,836 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Inc\main.h
+2024-09-03 21:13:06,856 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Src\main.c_save
+2024-09-03 21:13:06,987 [INFO] CodeEngine:279 - Generated code: C:\Users\chlqj\STM32CubeIDE\workspace_1.16.0\MX28_Project\Core\Src\main.c
+2024-09-03 21:13:07,498 [INFO] ProjectBuilder:3249 - Time for Copy HAL[1] : 349mS.
+2024-09-03 21:13:07,503 [INFO] ProjectBuilder:4828 - Project Generator version: 4.4.0-B60
+2024-09-03 21:13:07,578 [INFO] ConfigFileManager:1531 - The Die is : DIE421
+2024-09-03 21:13:08,529 [INFO] ProjectBuilder:5097 - Time for Generating toolchain IDE Files: 1026mS.
+2024-09-03 21:13:08,530 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 1mS.
+2024-09-03 21:13:08,549 [INFO] ProjectBuilder:3107 - Time for Copy CMSIS : 2mS.

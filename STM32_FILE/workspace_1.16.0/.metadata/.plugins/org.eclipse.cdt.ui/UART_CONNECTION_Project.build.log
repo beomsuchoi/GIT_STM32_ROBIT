@@ -1,0 +1,22 @@
+17:32:14 **** Incremental Build of configuration Debug for project UART_CONNECTION_Project ****
+make -j8 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F446xx -DUSE_FULL_LL_DRIVER -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:40:5: warning: implicit declaration of function 'HAL_UART_Receive_DMA' [-Wimplicit-function-declaration]
+   40 |     HAL_UART_Receive_DMA(&huart1, switch_state, sizeof(switch_state));
+      |     ^~~~~~~~~~~~~~~~~~~~
+../Core/Src/main.c:40:27: error: 'huart1' undeclared (first use in this function)
+   40 |     HAL_UART_Receive_DMA(&huart1, switch_state, sizeof(switch_state));
+      |                           ^~~~~~
+../Core/Src/main.c:40:27: note: each undeclared identifier is reported only once for each function it appears in
+../Core/Src/main.c:46:9: warning: implicit declaration of function 'HAL_UART_Transmit' [-Wimplicit-function-declaration]
+   46 |         HAL_UART_Transmit(&huart1, &start_packet, 1, HAL_MAX_DELAY);
+      |         ^~~~~~~~~~~~~~~~~
+../Core/Src/main.c:68:9: warning: implicit declaration of function 'HAL_UART_Transmit_DMA' [-Wimplicit-function-declaration]
+   68 |         HAL_UART_Transmit_DMA(&huart1, (uint8_t*)&distance, sizeof(distance));
+      |         ^~~~~~~~~~~~~~~~~~~~~
+make: *** [Core/Src/subdir.mk:49: Core/Src/main.o] Error 1
+"make -j8 all" terminated with exit code 2. Build might be incomplete.
+
+17:32:17 Build Failed. 2 errors, 3 warnings. (took 3s.39ms)
+
